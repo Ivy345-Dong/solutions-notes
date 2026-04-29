@@ -79,5 +79,3 @@
 **English**: Most Selenium element interaction failures are not positioning problems, but ignoring page display status and front\-end JS interaction rules\. Reasonably waiting for occlusion removal, scrolling into view and using JS alternative interaction can solve almost all element click and input abnormal problems\.
 
 **中文**：实操总结下来，Selenium元素交互异常都不是定位问题，而是忽略了页面展示状态和前端JS交互规则。做好遮挡等待、视口滚动、JS替代交互，就能解决绝大部分元素点击、输入失效报错。
-
-> （注：文档部分内容可能由 AI 生成）
