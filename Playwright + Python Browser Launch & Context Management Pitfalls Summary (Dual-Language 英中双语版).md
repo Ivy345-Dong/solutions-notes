@@ -91,5 +91,3 @@ browser = p.chromium.launch(
 **English**: Most browser and context management problems are not caused by code logic errors, but by unstandardized browser startup parameters and unreasonable resource lifecycle management\. After my actual debugging and adjustment, configuring anti\-detection startup parameters for headless mode, switching page objects in time for multi\-window scenarios, and recycling resources after use cases end can solve almost all such unstable random failures\.
 
 **中文**: 浏览器启动和上下文相关的问题，大多不是代码逻辑写错了，而是浏览器启动参数没配好、资源生命周期管理不规范。经过我实操调试优化后，无头模式加防识别参数、多窗口及时切换页面对象、用例结束及时回收资源，基本就能解决这类随机不稳定报错。
-
-> （注：文档部分内容可能由 AI 生成）
