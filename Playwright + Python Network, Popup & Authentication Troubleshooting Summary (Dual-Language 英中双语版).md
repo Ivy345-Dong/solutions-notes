@@ -106,5 +106,3 @@ context = browser.new_context(storage_state="login_auth_state.json")
 **English**: Most network, popup and authentication failures I encountered are not code bugs, but lack of network control, missing dialog monitoring and no login state reuse\. With network waiting \&amp; interception, auto dialog handling and storageState login caching, these random unstable failures can be completely solved\.
 
 **中文**：实操下来，网络、弹窗和认证相关问题都不是代码bug，全是没管控网络请求、没监听弹窗、没复用登录态导致。做好网络等待拦截、弹窗自动处理、storageState登录缓存，就能彻底解决这类随机不稳定报错。
-
-> （注：文档部分内容可能由 AI 生成）
