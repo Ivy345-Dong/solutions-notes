@@ -79,5 +79,3 @@
 **English**: Most concurrent and CI environment instability issues I encountered are not script logic errors\. They are mainly caused by missing use case isolation, unreasonable CI configuration and no fault\-tolerant retry mechanism\. Doing a good job in resource isolation, environment adaptation and flaky case retry can greatly improve the overall pass rate of automated batches\.
 
 **中文**：实操下来发现，并发和CI环境的不稳定问题，都不是脚本逻辑写错了。核心就是用例没隔离、CI没适配、波动用例没容错重跑。做好资源隔离、环境适配、失败重试，就能大幅提升自动化批量运行的整体通过率。
-
-> （注：文档部分内容可能由 AI 生成）
