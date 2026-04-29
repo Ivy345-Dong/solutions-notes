@@ -79,5 +79,3 @@
 **English**: Most element interaction failures I encountered are not caused by incorrect positioning, but ignoring page component characteristics and front\-end JS logic\. As long as we handle mask occlusion, input preprocessing and special component adaptation separately, most interaction anomalies can be solved stably\.
 
 **中文**：实操下来发现，大部分元素交互异常都不是定位问题，而是忽略了页面组件特性和前端JS交互逻辑。单独处理好遮罩遮挡、输入预处理、特殊组件适配，就能稳定解决绝大多数操作无效和交互失败问题。
-
-> （注：文档部分内容可能由 AI 生成）
