@@ -35,5 +35,3 @@
 **English**: Most anti\-detection and risk interception problems in Selenium automation are not operation logic issues, but unhidden browser automated feature exposure\. Standardizing browser startup parameters and hiding webdriver attributes can effectively avoid most bot detection and human\-machine verification interception\.
 
 **中文**：实操总结下来，Selenium自动化反爬风控拦截问题，都不是交互定位逻辑问题，而是浏览器自动化特征未隐藏导致。规范浏览器启动参数、屏蔽webdriver标识，就能有效规避大部分机器人检测和人机验证拦截。
-
-> （注：文档部分内容可能由 AI 生成）
