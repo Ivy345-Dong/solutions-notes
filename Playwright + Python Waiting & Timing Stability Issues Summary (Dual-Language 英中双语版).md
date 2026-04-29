@@ -79,5 +79,3 @@
 **English**: Most script instability I met comes from unreasonable waiting and timing logic, not tool defects\. Do not rely on time\.sleep\(\), do not trust only element visibility, and make targeted adaptation for CI environment\. Reasonable waiting strategy can almost solve all intermittent random failure problems\.
 
 **中文**：我实操下来发现，脚本不稳定大多都是等待与时序没写好，不是工具本身有问题。不滥用sleep、不只看元素是否可见、CI环境单独适配，做好合理等待策略，基本就能解决绝大多数间歇性随机失败。
-
-> （注：文档部分内容可能由 AI 生成）
