@@ -107,4 +107,3 @@ Jenkins will start automatically after Windows boots up\.
 This solution does not rely on Windows services, registry configuration, or system environment variables\. It uses a temporary environment variable in a batch script to specify the Jenkins working directory and strictly uses Java 21 to start the war package\. It avoids all compatibility and startup failure problems, realizing stable and permanent migration of Jenkins from C drive to D drive on Windows\.
 **中文**
 该方案不依赖Windows服务、注册表配置及系统环境变量，通过批处理临时环境变量指定Jenkins工作目录，严格使用Java21启动war包，规避所有兼容问题和启动报错，实现Windows环境下Jenkins从C盘到D盘稳定永久迁移。
-
