@@ -79,5 +79,3 @@
 **English**: Almost all Selenium element positioning failures are not tool bugs, but unreasonable waiting strategies, fragile locator selection and unhandled special nested structures\. Using explicit waiting, stable locators and targeted nested processing can solve 99% of NoSuchElement and stale element exceptions\.
 
 **中文**：实操下来，Selenium绝大部分元素定位报错都不是工具本身问题，全是等待策略不当、定位选择脆弱、特殊嵌套结构未处理导致。用好显式等待、稳定定位写法、特殊结构单独适配，就能解决99%的定位找不到和元素过期问题。
-
-> （注：文档部分内容可能由 AI 生成）
