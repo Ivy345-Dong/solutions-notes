@@ -176,7 +176,3 @@ libXdamage libXfixes libXrandr mesa-libgbm alsa-lib pango
 **English**: Most Playwright \+ Python environment setup issues I faced are actually easy to fix, as long as you follow a regular installation routine\. Just make sure your Python version meets the requirements, update pip on time, install the official matching browsers, use virtual environments to keep dependencies clean, and prepare necessary system libraries for Linux servers\. I wrote this dual\-language note based on my own real setup experience, hoping it can help anyone who’s just getting started avoid unnecessary troubles\.
 
 **中文**：我实操下来发现，Playwright \+ Python 大部分环境安装问题都很好解决，只要安装时按规范一步步来就行。核心做好这几点：Python版本达标、及时升级pip、装好官方配套浏览器、用虚拟环境隔离依赖，Linux服务器提前装好系统库就够了。这份双语文档是我自己实操踩坑后的随手记录总结，希望能帮刚上手的小伙伴少走点弯路，不用反复折腾环境问题。
-
-
-
-> （注：文档部分内容可能由 AI 生成）
