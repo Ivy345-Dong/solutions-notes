@@ -79,5 +79,3 @@
 **English**: Almost all element positioning failures I encountered are not tool bugs, but unreasonable positioning methods and unawareness of page rendering characteristics\. Using stable fixed attributes, avoiding fragile absolute paths, and handling iframe and Shadow DOM separately can solve 99% of positioning timeout and element not found problems\.
 
 **中文**：我实操下来发现，几乎所有元素定位报错都不是Playwright工具本身的问题，全是定位写法不规范、不了解页面渲染特性导致的。只要坚持用稳定固定属性、放弃脆弱绝对路径、特殊嵌套单独处理，就能搞定99%的定位超时和找不到元素问题。
-
-> （注：文档部分内容可能由 AI 生成）
